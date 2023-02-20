@@ -1,6 +1,7 @@
 # dcm2nii
 
 Convert `DICOM` format medical image to `nii` format.
+![demonstration](./demonstration.jpg)
 
 ## how to use
 1. select the root folder
